@@ -1,1 +1,2 @@
 C:\Users\admin\Desktop\Decorators\Decorators\bin\Debug\Decorators.exe.config
+C:\Users\admin\Documents\Decorators\Decorators\bin\Debug\Decorators.exe.config
